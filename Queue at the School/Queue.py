@@ -16,7 +16,7 @@ while t>0:
             r=l+1
     t-=1
     
-print("".join(q))
+print( "".join(q))
     
         
     
