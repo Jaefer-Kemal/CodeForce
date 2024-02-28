@@ -7,7 +7,7 @@ temp=[[1,1,1],[1,1,1],[1,1,1]]
 
 for i in range(3):
     for j in range(3):
-        # if the number of time he pressed is even it will remain the samw
+        # if the number of time he pressed is even it will remain the same
         if press[i][j]%2!=0: 
             #Three Possibilities
             if (j==0 or j==2) and (i==0 or i==2):  
