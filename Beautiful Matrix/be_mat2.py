@@ -14,4 +14,4 @@ i=y[0]
 j=y[1]
 count=abs(i-2)+abs(j-2)
  
-print(count)
+print(count) 
