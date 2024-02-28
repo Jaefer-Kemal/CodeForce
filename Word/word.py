@@ -9,4 +9,4 @@ for i in s:
 if up>lo:
     print(s.upper())
 else:
-    print(s.lower())
+    print(s.lower()) 
